@@ -1,0 +1,11 @@
+commit 0d2a8978566eede69466f72f3b7374f41e866105
+Author: KChiquito <72934741+KChiquito@users.noreply.github.com>
+Date:   Wed Jun 7 22:31:31 2023 +0200
+
+    Eliminar fitxer KevinChiquito.java
+
+commit af5de84fb36a00eb4ac70a763c2aa906eea18101
+Author: KChiquito <72934741+KChiquito@users.noreply.github.com>
+Date:   Wed Jun 7 22:28:34 2023 +0200
+
+    Primer commit: afegir fitxers KevinChiquito.java i README.md
