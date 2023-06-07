@@ -37,4 +37,9 @@ public class KevinChiquito {
         KevinChiquito altre = (KevinChiquito) obj;
         return edat == altre.edat && tel.equals(altre.tel);
     }
+
+    public static void main(String[] args) {
+        KevinChiquito persona1 = new KevinChiquito(25, "123456789");
+        NeythanRamirez persona2 = new NeythanRamirez(30, "987654321"
+    }
 }
